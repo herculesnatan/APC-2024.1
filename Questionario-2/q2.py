@@ -1,0 +1,10 @@
+caractere_1 = input()
+caractere_2 = input()
+caractere_3 = input()
+
+print("%s%s%s" %(caractere_1, caractere_2, caractere_3))
+print(caractere_1)
+print(caractere_2*2)
+print("%s %s %s" %(caractere_3, caractere_3, caractere_3))
+print("X == %s, Y == %s, Z == %s" %(caractere_1, caractere_2, caractere_3))
+print("X != %s, Y != %s, Z == %s" %(caractere_2, caractere_1, caractere_3))
